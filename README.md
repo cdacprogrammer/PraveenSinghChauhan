@@ -1,4 +1,4 @@
-
+![logo](https://github.com/cdacprogrammer/PraveenSinghChauhan/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Praveen Singh Chauhan</h1>
 <h3 align="center">I Am C#.Net & Java Full Stack Developer</h3>
 
